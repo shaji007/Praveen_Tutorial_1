@@ -1,3 +1,5 @@
+package general;
+
 public class HelloWorld {
     String name = "Praveen";
 

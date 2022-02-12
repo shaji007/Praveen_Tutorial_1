@@ -1,3 +1,5 @@
+package general;
+
 public class ArraySample {
     private final String[] stringArray = {"Orange", "Apple"};
 

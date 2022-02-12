@@ -1,3 +1,5 @@
+package general;
+
 public class Maths {
     int a;
     int b;

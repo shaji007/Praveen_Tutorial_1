@@ -1,3 +1,5 @@
+package general;
+
 public class ExString {
     public static void main(String[] args) {
         String a = "Hello";
